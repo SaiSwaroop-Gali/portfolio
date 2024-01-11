@@ -35,10 +35,16 @@ Focus: Production Planning & Control, Operation & Research and Industrial Engine
 09/2019 – 07/2020	Sucessfully managed a 6 member team of distinct functions in developing a autonomous robot using Agile methodology of project management that transfers objects between two stations, spending 14% less than the allocated budget.
 ### Skills and Competencies
 •	Expert Knowledge: Ms Office (Excel, Word & PowerPoint)
+
 •	Project Management Softwares: Asana, Jira
+
 •	Sap S\4 Hana, Python, SQL, ETL Pipeline, Data warehousing 
+
 **Languages**: English (Business fluent, C1), German (Good Knowledge – A2), Telugu (Native).
-**Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible.
+
+**Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible
+
 **Technical Competencies**: Project Management, Resource planning, Market Research, Analytical Skills, Design Thinking.
+
 **Hobbies**: Trekking, Badminton, Listening music
 
