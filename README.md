@@ -2,8 +2,10 @@
 ### Educational Career
 **09/2019 – Present** - **Hochschule Emden/Leer, Emden, Germany**
 Master of Engineering(M.Eng)| Technical Management |Grade: 1.89
+
 Focus: Project management, Strategic and Business management, Quality Management
-Key Learnings: Project Management processes and techniques, KPI analysis, Poter’s 5 Forces, Swot Analysis, value chain analysis, Lean Management, Six Sigma.
+
+Key Learnings: Project Management, KPI analysis, Poter’s 5 Forces, Swot Analysis, value chain analysis, Lean Management, Six Sigma.
 
 **08/2014 – 04/2018** - **JNTU Kakinada, India**
 Bachelor of Technology(B.Tech)| Mechanical Engineering |Grade: 2.5
