@@ -1,12 +1,12 @@
 # 
 ### Educational Career
 **09/2019 – Present** - **Hochschule Emden/Leer, Emden, Germany**
-Master of Engineering(M.Eng)| Technical Management |Grade: 1.89
+| Master of Engineering(M.Eng)| Technical Management |Grade: 1.89
 
 Focus: Project management, Strategic and Business management, Quality Management
 
 **08/2014 – 04/2018** - **JNTU Kakinada, India**
-Bachelor of Technology(B.Tech)| Mechanical Engineering |Grade: 2.5
+| Bachelor of Technology(B.Tech)| Mechanical Engineering |Grade: 2.5
 
 Focus: Production Planning & Control, Operation & Research and Industrial Engineering Management.
 ### Professional Career
