@@ -9,6 +9,7 @@ Key Learnings: Project Management, KPI analysis, Poter’s 5 Forces, Swot Analys
 
 **08/2014 – 04/2018** - **JNTU Kakinada, India**
 Bachelor of Technology(B.Tech)| Mechanical Engineering |Grade: 2.5
+
 Focus: Production Planning & Control, Operation & Research and Industrial Engineering Management.
 ### Professional Career
 **11/2021 – 05/2023** - **Medical Issue**
