@@ -19,9 +19,11 @@
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
 
-[**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
+[**Analysis on Instacart Data**](https://github.com/SaiSwaroop-Gali/Analysis-on-Instacart_data)
 
 **Tech Stack:** PostgreSQL, Python
+
+![Instacart-Data-Analysis](assets/instacart.png)
 
 •	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
 
@@ -31,19 +33,20 @@
 
 •	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
 
-![Instakart-Data-Analysis](assets/images/instakart.png)
 
 
-[**YouTube Trending Video Dataset Visualization**](https://github.com/MaheedharAttaluri/YouTube-Treanding-Video-Analytics-)
+[**YouTube Top Trending Videos Analysis**](https://github.com/SaiSwaroop-Gali/YouTube-Trending-Videos-Analysis)
 
 **Tech Stack: Microsoft PowerBI**
+
+![YouTube-Trending-Videos-Analysis](assets/Dashboard.jpg)
 
 •	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
   exploration of key viewership metrics
 
 •	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
 
-![YouTube-Treanding-Video-Analytics-](assets/images/Dashboard.jpg)
+
 
 [**Labor Market & GDP predictions**](https://github.com/MaheedharAttaluri/Labor-Market-GDP-Prediction) 
 
