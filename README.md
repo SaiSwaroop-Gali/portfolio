@@ -1,6 +1,6 @@
-## 📍 Wichita, Kansas
+## 📍 Emden, Germany
 
-📞 [Phone: +1-3162235472](tel:+1-3162235472) ✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
+📞  [Teams] ✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
@@ -17,7 +17,7 @@
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
-![Spotify ETL](assets/images/Spotify-ETL.jpeg)
+![Spotify ETL](assets/Spotify-ETL.jpeg)
 
 [**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
 
