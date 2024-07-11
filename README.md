@@ -1,4 +1,5 @@
 ## 📍 Emden, Germany
+![image](https://github.com/SaiSwaroop-Gali/portfolio/assets/148336287/b81591fb-de1f-4de6-bf0f-c4c78efca1a1)
 
 📞  [Teams] ✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
 
