@@ -4,9 +4,11 @@
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
 ## Projects
-[**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
+[**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
+
+![Spotify ETL](assets/Spotify-ETL.jpeg)
 
 •	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
 
@@ -16,7 +18,6 @@
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
-![Spotify ETL](assets/Spotify-ETL.jpeg)
 
 [**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
 
