@@ -1,5 +1,4 @@
-## 📍 Emden, Germany
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="25">
+## <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="25"> Emden, Germany
 📞  [Teams] ✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
