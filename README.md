@@ -64,7 +64,8 @@
 
 **Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture
 
-![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
+![Stock-Market-Prediction](assets/images/1.jpeg)
+![Stock-Market-Prediction](assets/images/2.jpeg)
 
 • Automated ETL pipeline capable of handling dynamic inputs, reduced manual data processing time by 70% and streamlining financial metric calculations.
 
