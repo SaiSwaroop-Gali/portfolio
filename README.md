@@ -1,13 +1,14 @@
-## 📍 Wichita, Kansas
-
-📞 [Phone: +1-3162235472](tel:+1-3162235472) ✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
+## 📍Emden, Germany
+✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
 ## Projects
-[**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
+[**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
+
+![Spotify ETL](assets/Spotify-ETL.jpeg)
 
 •	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
 
@@ -17,11 +18,12 @@
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
-![Spotify ETL](assets/images/Spotify-ETL.jpeg)
 
-[**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
+[**Analysis on Instacart Data**](https://github.com/SaiSwaroop-Gali/Analysis-on-Instacart_data)
 
 **Tech Stack:** PostgreSQL, Python
+
+![Instacart-Data-Analysis](assets/instacart.png)
 
 •	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
 
@@ -31,46 +33,57 @@
 
 •	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
 
-![Instakart-Data-Analysis](assets/images/instakart.png)
 
 
-[**YouTube Trending Video Dataset Visualization**](https://github.com/MaheedharAttaluri/YouTube-Treanding-Video-Analytics-)
+[**YouTube Top Trending Videos Analysis**](https://github.com/SaiSwaroop-Gali/YouTube-Trending-Videos-Analysis)
 
 **Tech Stack: Microsoft PowerBI**
 
-•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
-  exploration of key viewership metrics
+![YouTube-Trending-Videos-Analysis](assets/Dashboard.jpg)
+
+•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, exploration of key viewership metrics
 
 •	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
 
-![YouTube-Treanding-Video-Analytics-](assets/images/Dashboard.jpg)
+
 
 [**Labor Market & GDP predictions**](https://github.com/MaheedharAttaluri/Labor-Market-GDP-Prediction) 
 
 **Tech Stack:** Python, Machine Learning models
 
-•	Analysed FRED API data using Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance economic forecasting
+![Labor-Market-GDP-Prediction](assets/GDPPrediction.jpeg)
 
-•	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
-![Labor-Market-GDP-Prediction](assets/images/GDPPrediction.jpeg)
-[**Stock-Market-Prediction**](https://github.com/MaheedharAttaluri/Stock-Market-Prediction)
-![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
-[**Live-Data-Analysis-using-Kafka**](https://github.com/MaheedharAttaluri/Live-Data-Analysis-using-Kafka)
+• Analyzed FRED API data with Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance forecasting, showcasing prediction skills 
+  relevant to BI development.
+
+• Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends
+
+
+ 
+[**E-T-L Pipeline to perform Data analysis and prediction on stock-market data**](https://github.com/SaiSwaroop-Gali/E-T-L-pipeline-to-perform-data-analysis-on-stock-market-data)
+
+**Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture
+
+![Stock-Market-Prediction](assets/images/1.jpeg)
+![Stock-Market-Prediction](assets/images/2.jpeg)
+
+• Automated ETL pipeline capable of handling dynamic inputs, reduced manual data processing time by 70% and streamlining financial metric calculations.
+
+• Developed a Timeseries model which achieved prediction accuracy within 5% error margin of actual stock prices for the initial 5-day forecast period.
+
+• Proposed cloud-based architecture enhanced data processing scalability by 80% and reduced latency by 40%, using AWS services.
+
+[**Kafka Live Data Extraction**](https://github.com/SaiSwaroop-Gali/Kafka-Live-Data-Extraction)
 
 **Tech Stack:** Python,Kafka, AWS (EC2, S3, Crawler, Glue, Athena)
 
-•	Stock prices are extracted in real-time using the Finhub API and streamed into Kafka. A custom Python script functions as a producer, efficiently 
-  pushing the data into Kafka topics.
+![Kafka Live Data Extraction](assets/kafka-Architecture.jpeg)
 
-•	The data flow is managed by Kafka, supported by ZooKeeper, ensuring robust data handling. Both Kafka broker and ZooKeeper are hosted on AWS EC2 
-  instances to effectively manage the processing load.
+• Extracted real-time stock prices using Finnhub API and streamed into Kafka with a custom Python script as the producer.
 
-•	After processing, the data is stored in AWS S3, providing a scalable and secure storage solution that acts as a data lake for further processing 
-  and analysis.
+• Managed data flow with Kafka and Zookeeper, hosted on AWS EC2 instances for robust data handling and stored processed data in AWS S3, acting as a scalable and secure data warehouse.
 
-•	AWS Glue catalogs the data in S3, creating searchable metadata and schemas. This structured data is then queried using Amazon Athena, allowing for 
-  advanced SQL-based analysis directly from the data lake.
-![Live-Data-Analysis-using-Kafka](assets/images/kafka-Architecture.jpeg)
+• Catalogued data in S3 using AWS Glue, creating searchable metadata and schemas, and queried structured data with Amazon Athena for advanced SQL-based analysis.
 
 
 ## Skills and Competencies
