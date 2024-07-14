@@ -3,6 +3,11 @@
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
+## 🎓 Education
+**M.Sc. Technical Management | Hochschule Emden/Leer, Emden, Germany September 2019 – March 2024**
+**Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
+**B.TECH. Mechanical engineering| Jawaharlal Nehru Technological University, India August 2014 – May 2018**
+
 ## Projects
 [**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
 
