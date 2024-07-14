@@ -3,11 +3,6 @@
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
-## 🎓 Education
-**M.Sc. Technical Management | Hochschule Emden/Leer, Emden, Germany September 2019 – March 2024**
-**Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
-**B.TECH. Mechanical engineering| Jawaharlal Nehru Technological University, India August 2014 – May 2018**
-
 ## Projects
 [**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
 
@@ -89,6 +84,15 @@
 • Managed data flow with Kafka and Zookeeper, hosted on AWS EC2 instances for robust data handling and stored processed data in AWS S3, acting as a scalable and secure data warehouse.
 
 • Catalogued data in S3 using AWS Glue, creating searchable metadata and schemas, and queried structured data with Amazon Athena for advanced SQL-based analysis.
+
+
+
+## 🎓 Education
+**M.Sc. Technical Management | Hochschule Emden/Leer**    **Emden, Germany September 2019 – March 2024**
+
+**Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
+
+**B.TECH. Mechanical engineering| Jawaharlal Nehru Technological University**  **India August 2014 – May 2018**
 
 
 
