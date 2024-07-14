@@ -88,10 +88,10 @@
 
 
 ## 🎓 Education
-• **M.Sc. Technical Management | Hochschule Emden/Leer | Emden, Germany September 2019 – March 2024**
-  **Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
+### M.Sc. Technical Management | Hochschule Emden/Leer | Emden, Germany September 2019 – March 2024
+**Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
 
-• **B.TECH. Mechanical Engineering| Jawaharlal Nehru Technological University | Vijayawada, India August 2014 – May 2018**
+### B.TECH. Mechanical Engineering| Jawaharlal Nehru Technological University | Vijayawada, India August 2014 – May 2018
 
 
 
