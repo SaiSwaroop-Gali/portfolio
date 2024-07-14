@@ -92,7 +92,7 @@
 **Focus:** Advanced Project management, Applied Statistics, Computer Science, Intelligent Automation
 
 ### B.TECH. Mechanical Engineering| Jawaharlal Nehru Technological University | India | Aug 2014 – May 2018
-**Focus:** Production Planning & Control, Operations & Research and Industrial Engineering Management
+**Focus:** Production Planning & Control, Operations & Research, Industrial Engineering Management
 
 
 
