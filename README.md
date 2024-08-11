@@ -10,7 +10,8 @@
 
 ![Spotify ETL](assets/Spotify-ETL.jpeg)
 
-![Spotify ETL](assets/Snowflake.jpeg)
+![Spotify ETL](assets/Snowflake.png)
+
 •	Developed an ETL pipeline for Spotify's data handling, empowering music insights and enhancing accessibility to trends.
 
 •	Used AWS Lambda functions to automate data extraction from Spotify API, reducing manual data handling by 35% and showcasing data profiling skills.
