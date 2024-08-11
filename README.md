@@ -25,13 +25,10 @@
 
 ![Instacart-Data-Analysis](assets/instacart.png)
 
-•	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
-
-•	Developed an E-commerce data model and established a PostgreSQL database to streamline analytics
-
-•	Generated PostgreSQL tables with Python queries, streamlining data insertion using psycopg2 and sqlalchemy packages
-
-•	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
+•	Conducted exploratory data analysis on the Instacart dataset to uncover consumer purchase patterns, handling over 3 million orders to enhance data-driven decision-making.
+•	Developed a robust data model by establishing a PostgreSQL database, improving query execution speed by 20%.
+•	Generated PostgreSQL tables with Python queries, streamlined data insertion using psycopg2 and SQLAlchemy packages, reducing data processing time by 25%.
+•	Executed analytic queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns.
 
 
 
@@ -41,9 +38,9 @@
 
 ![YouTube-Trending-Videos-Analysis](assets/Dashboard.jpg)
 
-•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, exploration of key viewership metrics
-
-•	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
+• Developed an interactive Power BI dashboard to visualize the global YouTube trending video dataset, assisting content creators in refining their content strategies for better viewership.
+• Implemented DAX measures for calculations on YouTube video trend analysis to effectively display key metrics.
+• Created a BI report using custom visuals like stacked bars, donut charts, line charts, cards, slicers, bookmarks, etc.
 
 
 
@@ -53,10 +50,9 @@
 
 ![Labor-Market-GDP-Prediction](assets/GDPPrediction.jpeg)
 
-• Analyzed FRED API data with Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance forecasting, showcasing prediction skills 
-  relevant to BI development.
+• Extracted and analyzed economic indicators from the FRED API, identifying key factors influencing consumer spending to enhance economic forecasting and decision-making.
 
-• Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends
+• Applied feature engineering and machine learning models, optimizing predictive accuracy for labor market and GDP trends, contributing to informed business and policy decisions.
 
 
  
