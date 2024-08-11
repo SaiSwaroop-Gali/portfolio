@@ -10,13 +10,15 @@
 
 ![Spotify ETL](assets/Spotify-ETL.jpeg)
 
-•	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
+![Spotify ETL](assets/Snowflake.jpeg)
+•	Developed an ETL pipeline for Spotify's data handling, empowering music insights and enhancing accessibility to trends.
 
-•	Configured AWS Lambda with triggers set to execute every one-minute, channelling new data to an S3 bucket for uninterrupted data ingestion
+•	Used AWS Lambda functions to automate data extraction from Spotify API, reducing manual data handling by 35% and showcasing data profiling skills.
 
-•	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders
+•	Optimized data transformation with S3 triggers and AWS Lambda, leading to the improvement in data sorting, optimization, and retrieval, thus enhancing data accessibility.
 
-•	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
+•	Automated data identification and retrieval processes from S3 to Athena using Glue Data Catalog with crawlers, and from S3 to Snowflake DB using Snowpipe.
+
 
 
 [**Analysis on Instacart Data**](https://github.com/SaiSwaroop-Gali/Analysis-on-Instacart_data)
@@ -26,8 +28,11 @@
 ![Instacart-Data-Analysis](assets/instacart.png)
 
 •	Conducted exploratory data analysis on the Instacart dataset to uncover consumer purchase patterns, handling over 3 million orders to enhance data-driven decision-making.
+
 •	Developed a robust data model by establishing a PostgreSQL database, improving query execution speed by 20%.
+
 •	Generated PostgreSQL tables with Python queries, streamlined data insertion using psycopg2 and SQLAlchemy packages, reducing data processing time by 25%.
+
 •	Executed analytic queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns.
 
 
@@ -39,7 +44,9 @@
 ![YouTube-Trending-Videos-Analysis](assets/Dashboard.jpg)
 
 • Developed an interactive Power BI dashboard to visualize the global YouTube trending video dataset, assisting content creators in refining their content strategies for better viewership.
+
 • Implemented DAX measures for calculations on YouTube video trend analysis to effectively display key metrics.
+
 • Created a BI report using custom visuals like stacked bars, donut charts, line charts, cards, slicers, bookmarks, etc.
 
 
