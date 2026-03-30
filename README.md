@@ -52,7 +52,7 @@
 
 
 
-[**Labor Market & GDP predictions**](https://github.com/MaheedharAttaluri/Labor-Market-GDP-Prediction) 
+[**Labor Market & GDP predictions**](https://github.com/SaiSwaroop-Gali/Labor-Market-USA-GDP-Prediction)
 
 **Tech Stack:** Python, Machine Learning models
 
