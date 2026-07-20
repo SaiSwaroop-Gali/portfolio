@@ -4,6 +4,39 @@
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
 ## 🗂️ Projects
+[**Procurement Agent (Multi-Agent Workflow with Human-in-the-Loop)**](https://github.com/SaiSwaroop-Gali/Procurement-agent)
+
+**Tech Stack:**  Python, Google Gemini 2.5 Flash, SQLite, Streamlit, Telegram Bot API, Gmail SMTP/IMAP
+
+![Procurement Agent](assets/system_architecture.png)
+
+• Built a 3-agent HITL procurement system (Procurement, Manager, Supplier-Response agents) coordinating via Telegram, Gmail, 
+and a shared SQLite database to route purchase decisions through human approval.  
+
+• Powered Manager and Supplier-Response agents with Gemini 2.5 Flash to interpret natural-language instructions and verify 
+supplier replies, using deterministic tools for email generation to eliminate hallucination risk. 
+
+• Built a real-time Streamlit dashboard backed by SQLite for persistent storage, giving full visibility into order status, agent 
+decisions, and supplier responses across the workflow.
+
+
+[**Hybrid Graph RAG Research Assistant (Multi-model data extraction)**](https://github.com/SaiSwaroop-Gali/Procurement-agent)
+
+**Tech Stack:**  Python, LangChain, Neo4j, ChromaDB, OpenAI GPT, text-embedding-3-small, Gemma 4 31B (OpenRouter), Docker 
+
+![Procurement Agent](assets/System_Architecture_Ragpipeline.jpeg)
+
+• Built an end-to-end Hybrid Graph Retrieval-Augmented Generation (RAG) system combining ChromaDB vector search and Neo4j 
+knowledge graph retrieval to answer domain-specific questions from AI research papers, leveraging multimodal document 
+processing (text, tables, and images). 
+
+• Designed an agentic LLM pipeline with semantic chunking, knowledge graph extraction, context fusion, grounding verification, and 
+an LLM-based Web Agent to improve answer reliability and handle out-of-domain queries. 
+
+• Developed an evaluation and observability framework featuring automated benchmark harnesses, telemetry logging, retrieval 
+analytics, and failure analysis to evaluate retrieval quality and continuously improve pipeline performance. 
+
+
 [**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
