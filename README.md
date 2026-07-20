@@ -20,11 +20,11 @@ supplier replies, using deterministic tools for email generation to eliminate ha
 decisions, and supplier responses across the workflow.
 
 
-[**Hybrid Graph RAG Research Assistant (Multi-model data extraction)**](https://github.com/SaiSwaroop-Gali/Procurement-agent)
+[**Hybrid Graph RAG Research Assistant (Multi-model data extraction)**](https://github.com/SaiSwaroop-Gali/Pdf_rag)
 
 **Tech Stack:**  Python, LangChain, Neo4j, ChromaDB, OpenAI GPT, text-embedding-3-small, Gemma 4 31B (OpenRouter), Docker 
 
-![Procurement Agent](assets/System_Architecture_Ragpipeline.jpeg)
+![Hybrid Graph RAG](assets/System_Architecture_Ragpipeline.jpeg)
 
 • Built an end-to-end Hybrid Graph Retrieval-Augmented Generation (RAG) system combining ChromaDB vector search and Neo4j 
 knowledge graph retrieval to answer domain-specific questions from AI research papers, leveraging multimodal document 
